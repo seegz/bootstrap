@@ -1,0 +1,34 @@
+.navbar-header {
+  padding-left: 120px;
+}
+
+.jumbrotron {
+  margin:auto;
+}
+
+.col-sm-8 {
+  padding-left: 120px;
+}
+
+.h1 {
+  padding-left: 30px;
+}
+
+/*.col-sm-4 {
+  padding-right: 120px;
+}*/
+
+.small-container {
+  max-width: 800px;
+}
+.list-group {
+  max-width: 200px;
+}
+
+.col-sm-3 {
+  padding-left: 120px;
+}
+
+.text-muted {
+  padding-left: 100px;
+}
